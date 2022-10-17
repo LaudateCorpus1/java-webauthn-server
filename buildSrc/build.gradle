@@ -6,7 +6,7 @@ repositories {
 
 dependencies {
   implementation(
-    'commons-io:commons-io:2.5',
+    'commons-io:commons-io:2.11.0',
     'info.solidsoft.gradle.pitest:gradle-pitest-plugin:1.5.1',
   )
 }
